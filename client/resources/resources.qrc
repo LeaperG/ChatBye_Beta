@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/iconUpdate.png</file>
+        <file>icons/iconSend3.png</file>
+        <file>icons/iconSidebar9.png</file>
+        <file>icons/dropListIcon.png</file>
+        <file>images/portPageImg.png</file>
+        <file>images/namePageImg.png</file>
+        <file>gifs/download.gif</file>
+    </qresource>
+</RCC>
